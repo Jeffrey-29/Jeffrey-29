@@ -144,15 +144,15 @@ const jeffrey = {
 <!-- ══════════════════ 11. FEATURED PROJECTS ══════════════════ -->
 ### 🚀 Featured Projects
 
-> **Note:** repo links below are placeholders — push each project and update the URLs.
-
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| **[MovieVerse](https://github.com/Jeffrey-29)** | Node.js · Express · EJS · TMDB API | Movie/TV discovery platform · live search autocomplete · watchlist & stats dashboard · inline trailer autoplay on hover · Neon-Noir cinematic UI |
-| **[CareerGuide Dashboard](https://github.com/Jeffrey-29)** | React 19 · Vite · Node · MongoDB · JWT | Counselling platform with **1,758+ college records** · session conflict detection · analytics · PDF report generation · RBAC auth · dark mode |
-| **[Liora](https://github.com/Jeffrey-29)** | Vanilla JS · Firebase · Three.js | Real-time anonymous social platform in a **single HTML file** · realtime feed, stories & DMs · atomic likes · nearby-user discovery |
+| 🔒 **MovieVerse** | Node.js · Express · EJS · TMDB API | Movie/TV discovery platform · live search autocomplete · watchlist & stats dashboard · inline trailer autoplay on hover · Neon-Noir cinematic UI |
+| 🔒 **CareerGuide Dashboard** | React 19 · Vite · Node · MongoDB · JWT | Counselling platform with **1,758+ college records** · session conflict detection · analytics · PDF report generation · RBAC auth · dark mode |
+| 🔒 **Liora** | Vanilla JS · Firebase · Three.js | Real-time anonymous social platform in a **single HTML file** · realtime feed, stories & DMs · atomic likes · nearby-user discovery |
+
+<sub>🔒 Private projects — walkthrough available on request.</sub>
 
 </div>
 
