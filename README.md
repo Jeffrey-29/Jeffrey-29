@@ -29,10 +29,11 @@ const jeffrey = {
     stack: {
         frontend: ["React", "JavaScript", "GSAP", "Three.js"],
         backend:  ["Node.js", "Express", "REST APIs", "JWT"],
-        data:     ["Python", "Pandas", "scikit-learn", "TensorFlow"],
+        data:     ["Python", "Pandas", "scikit-learn", "TensorFlow", "PyTorch"],
         database: ["MongoDB", "PostgreSQL", "Firebase"]
     },
-    currentlyLearning: ["Machine Learning", "Data Engineering", "System Design"],
+    dataScience: ["Machine Learning", "Deep Learning", "NLP", "Data Engineering"],
+    focus:       ["Full-Stack Web Apps", "Data-Driven Products"],
     funFact: "I once shipped an entire real-time social app in a single HTML file",
     motto: () => "Build things that feel effortless to use."
 };
@@ -60,13 +61,31 @@ const jeffrey = {
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Data Science & ML**
+**Data Science & Machine Learning**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-006ACC?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=flat-square&logo=spacy&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=flat-square&logo=apachespark&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8E44AD?style=flat-square&logo=plotly&logoColor=white)
+![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-2E7D32?style=flat-square&logo=wolfram&logoColor=white)
+
+**ML / DS Libraries**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Databases**
 
@@ -76,6 +95,7 @@ const jeffrey = {
 
 **Cloud, DevOps & Tools**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -185,14 +205,6 @@ const jeffrey = {
 | B.E. Computer Science & Engineering | Panimalar Engineering College · Anna University | 2020 – 2024 | CGPA 8.9 |
 
 </div>
-
-### 🌱 Currently Learning
-
-```text
-🧠 Machine Learning    →  Supervised models, model evaluation, feature engineering
-🔧 Data Engineering    →  ETL pipelines, PostgreSQL, data modeling
-🏛️ System Design       →  Scalable architecture, caching, API design
-```
 
 <br/>
 
